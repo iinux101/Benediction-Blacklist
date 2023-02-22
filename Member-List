@@ -540,6 +540,7 @@ aura_env.blacklist = {
 "Specdk",
 "Äleshaa",
 "Gellerth",
+"Lädys",
 }
 
 aura_env.checkBlacklist = function(name)
@@ -563,5 +564,3 @@ preferredIndex = 3
 StaticPopup_Show ("BLACKLIST")
 return
 end
-
-
